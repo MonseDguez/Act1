@@ -1,0 +1,35 @@
+<resources>
+    <!-- Comentario  -->
+    <string name="app_name">Actividad1</string>
+    <string name="txt_boton">Abrir</string>
+
+    <array name="tblPreguntas">
+        <item>¿Con quién juega Alex?</item>
+        <item>¿De qué color es Rufo?</item>
+        <item>¿Qué necesita Rufo?</item>
+    </array>
+    <array name="tblRespuestas">
+        <item>A) Rodolfo</item>
+        <item>B) Manguera</item>
+        <item>C) Alex</item>
+        <item>D) Rufo</item>
+        <item>A) Negro</item>
+        <item>B) Café</item>
+        <item>C) Verde</item>
+        <item>D) Canela</item>
+        <item>A) Comida</item>
+        <item>B) Abrazo</item>
+        <item>C) Un baño</item>
+        <item>D) Un juguete</item>
+    </array>
+    <array name="tblCorrectRespuesta">
+        <item>3</item>
+        <item>1</item>
+        <item>2</item>
+    </array>
+
+    <integer name="correct_respuesta1">3</integer> <!-- 4 (Rufo) -->
+    <integer name="correct_respuesta2">1</integer> <!-- 2 (Café) -->
+    <integer name="correct_respuesta3">2</integer> <!-- 3 (Baño) -->
+
+</resources>
